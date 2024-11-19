@@ -1,16 +1,18 @@
-## Hi there 👋
+# ¡Hola! 👋 Soy Berto
 
-<!--
-**MasBytesDev/MasBytesDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌟 Sobre mí
+- 🧑‍💻 **Backend Developer** con experiencia en Java y en proceso de aprendizaje de C#.
+- 🚀 Fundador de **Mas Bytes, SaS**, una empresa de desarrollo de software en proceso de legalización.
+- 📚 He trabajado con bases de datos como **MySQL**, **PostgreSQL**, **MariaDB**, **MongoDB**, **SQL Server** y **Oracle Database XE**.
 
-Here are some ideas to get you started:
+### 🛠️ Habilidades técnicas
+- **Lenguajes:** Java, C#, SQL
+- **Frameworks:** Spring Boot, Hibernate
+- **Bases de datos:** MySQL, PostgreSQL, MariaDB, MongoDB, SQL Server, Oracle Database XE
+- **Buenas prácticas:** SOLID, patrones de diseño, arquitectura REST
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Proyectos destacados
+- Aún estoy desarrollando proyectos para mostrar aquí. ¡Pronto compartiré algunos!
+
+### 🌐 Contacto
+- 📫 **Email:** [rtorres.roberto@outlook.com](mailto:rtorres.roberto@outlook.com)
